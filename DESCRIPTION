@@ -1,0 +1,9 @@
+Package: cellrangerRkitextra
+Title: 10X Cell Ranger R Kit Extra Functions
+Version: 0.0.0.9000
+Authors@R: person("Fong Chun", "Chan", email = "fongchunchan@gmail.com" role = c("aut", "cre"))
+Description: Additional functions to support the 10X Cell Ranger R Kit
+Depends: R (>= 3.3.1)
+License: MIT
+Encoding: UTF-8
+LazyData: true
